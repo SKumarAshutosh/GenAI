@@ -21,4 +21,3 @@ Whether you're a beginner curious about AI or an experienced developer looking t
 
 ---
 
-Feel free to adjust this description to better fit your vision for the repository!
